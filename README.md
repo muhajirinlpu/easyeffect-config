@@ -1,0 +1,1 @@
+# easyeffect-config
